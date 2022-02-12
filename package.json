@@ -1,0 +1,16 @@
+{
+  "name": "nodejsprj",
+  "version": "1.0.0",
+  "description": "Learning",
+  "main": "1-http.js",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "express": "^4.17.2",
+    "loadash": "^1.0.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Anjana",
+  "license": "ISC"
+}
